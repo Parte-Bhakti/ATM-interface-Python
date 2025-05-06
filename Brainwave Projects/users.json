@@ -1,0 +1,36 @@
+{
+    "5012": {
+        "balance": 0,
+        "history": []
+    },
+    "1234": {
+        "balance": 24000.0,
+        "history": [
+            "Deposited \u20b925000.0",
+            "Withdrew \u20b91000.0"
+        ]
+    },
+    "5987": {
+        "balance": 0,
+        "history": []
+    },
+    "2546": {
+        "balance": 0,
+        "history": []
+    },
+    "5687": {
+        "balance": 0,
+        "history": []
+    },
+    "7864": {
+        "balance": 64000.0,
+        "history": [
+            "Deposited \u20b964100.0",
+            "Withdrew \u20b9100.0"
+        ]
+    },
+    "5618": {
+        "balance": 0,
+        "history": []
+    }
+}
